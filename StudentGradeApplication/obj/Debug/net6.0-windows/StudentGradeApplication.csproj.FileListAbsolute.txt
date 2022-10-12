@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\StudentGradeApplication\StudentGradeApplication\bin\Debug\net6.0-windows\StudentGradeApplication.exe
+C:\Users\user\source\repos\StudentGradeApplication\StudentGradeApplication\bin\Debug\net6.0-windows\StudentGradeApplication.deps.json
+C:\Users\user\source\repos\StudentGradeApplication\StudentGradeApplication\bin\Debug\net6.0-windows\StudentGradeApplication.runtimeconfig.json
+C:\Users\user\source\repos\StudentGradeApplication\StudentGradeApplication\bin\Debug\net6.0-windows\StudentGradeApplication.dll
+C:\Users\user\source\repos\StudentGradeApplication\StudentGradeApplication\bin\Debug\net6.0-windows\StudentGradeApplication.pdb
+C:\Users\user\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net6.0-windows\StudentGradeApplication.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net6.0-windows\StudentGradeApplication.Form1.resources
+C:\Users\user\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net6.0-windows\StudentGradeApplication.csproj.GenerateResource.cache
+C:\Users\user\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net6.0-windows\StudentGradeApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net6.0-windows\StudentGradeApplication.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net6.0-windows\StudentGradeApplication.AssemblyInfo.cs
+C:\Users\user\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net6.0-windows\StudentGradeApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net6.0-windows\StudentGradeApplication.dll
+C:\Users\user\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net6.0-windows\refint\StudentGradeApplication.dll
+C:\Users\user\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net6.0-windows\StudentGradeApplication.pdb
+C:\Users\user\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net6.0-windows\StudentGradeApplication.genruntimeconfig.cache
+C:\Users\user\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net6.0-windows\ref\StudentGradeApplication.dll
